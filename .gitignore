@@ -151,7 +151,6 @@ gradle-app.setting
 ## IntelliJ
 ##############################
 out/
-.idea/
 .idea_modules/
 *.iml
 *.ipr
@@ -188,7 +187,6 @@ nb-configuration.xml
 ##############################
 ## Visual Studio Code
 ##############################
-.vscode/
 .code-workspace
 
 ##############################
