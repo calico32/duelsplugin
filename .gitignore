@@ -1,5 +1,10 @@
 # combination of maven, java, and jetbrains gitignores from https://github.com/github/gitignore
 
+# custom tings
+copy-target.sh
+deploy.sh
+
+
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -108,7 +113,6 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
-copy-target.sh
 
 
 ##############################
@@ -193,3 +197,4 @@ nb-configuration.xml
 ## OS X
 ##############################
 .DS_Store
+.idea/codeStyles/

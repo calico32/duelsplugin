@@ -1,0 +1,27 @@
+package dev.wiisportsresorts.duelsplugin.util
+
+object McStyling {
+    const val black = "§0"
+    const val darkBlue = "§1"
+    const val darkGreen = "§2"
+    const val darkAqua = "§3"
+    const val darkRed = "§4"
+    const val darkPurple = "§5"
+    const val gold = "§6"
+    const val gray = "§7"
+    const val darkGray = "§8"
+    const val blue = "§9"
+    const val green = "§a"
+    const val aqua = "§b"
+    const val red = "§c"
+    const val lightPurple = "§d"
+    const val yellow = "§e"
+    const val white = "§f"
+    const val obfuscated = "§k"
+    const val bold = "§l"
+    const val strikethrough = "§m"
+    const val underline = "§n"
+    const val italic = "§o"
+    const val reset = "§r"
+    const val separator = "$aqua----------------------------------------------------$reset"
+}
